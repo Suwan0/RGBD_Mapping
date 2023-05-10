@@ -7,7 +7,9 @@
 
 ## Video
 <p align="center">
-ORB_SLAM2.gif
+  <img
+    src="ORB_SLAM2.gif"
+  >
 </p>
 
 ## Description
