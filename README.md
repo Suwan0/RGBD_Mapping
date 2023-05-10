@@ -7,7 +7,7 @@
 
 ## Video
 <p align="center">
-![ORB_SLAM2](https://github.com/Suwan0/Suwan_Dev/assets/122383307/d8e9c12b-d3b2-4f10-9994-1bc831a41e85)
+ORB_SLAM2.gif
 </p>
 
 ## Description
