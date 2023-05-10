@@ -12,9 +12,9 @@
 This is a project that semantic segmentation of the drivable area and makes it into a pointcloud and displays it on a 3D map.
 
 <p align="center">
-  <
+  <img
 ![ORB_SLAM2](https://github.com/Suwan0/Suwan_Dev/assets/122383307/d8e9c12b-d3b2-4f10-9994-1bc831a41e85)
-                                                                                                           >
+  >
 </p>
 
 ## Purpose
