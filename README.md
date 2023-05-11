@@ -19,9 +19,9 @@ This is a project that semantic segmentation of the drivable area and makes it i
 
 
 ## Purpose
-Camera Sensor를 이용한 Localization & 3D Mapping
+RGBD Sensor 이용한 Localization & 3D Mapping
 
-Localization & 3D Mapping using Camera Sensor
+Localization & 3D Mapping using RGBD Sensor
 
 ## Project List
 * Semantic Segmentation
