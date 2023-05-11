@@ -3,9 +3,9 @@
 ### Development environment
 
 ### Model 
-DeeplabV3
-BiSeNetV2
-PsPNet
+DeeplabV3  
+BiSeNetV2  
+PsPNet  
 PsPUNet
 
 
