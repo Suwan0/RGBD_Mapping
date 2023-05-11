@@ -1,1 +1,21 @@
 # Semantic segmentation
+
+### Development environment
+
+### Model 
+DeeplabV3
+BiSeNetV2
+PsPNet
+PsPUNet
+
+
+### Dataset
+[AI Hub](http://www.aihub.or.kr/) Side Walking Dataset
+
+### Evaluation
+|model|accuracy|loss|mIoU|FPS|Size|
+|------|---|---|---|---|--|
+|DeeplabV3|1%|1|1%|1|1MB|
+|BiSeNetV2|1%|1|1%|1|1MB|
+|PsPNet|1%|1|1%|1|1MB|
+|PsPUnet|1%|1|1%|1|1MB|
