@@ -1,8 +1,5 @@
 # Semantic segmentation
 
-### More Details about Semantic segmentation
-Notion
-
 ### Development environment
 
 ### Model 
