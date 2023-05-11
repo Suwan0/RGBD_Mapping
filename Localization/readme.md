@@ -9,5 +9,5 @@
 
 
 #### Using Model
-With [ORB_SLAM2](https://github.com/appliedAI-Initiative/orb_slam_2_ros)
+[ORB_SLAM2](https://github.com/appliedAI-Initiative/orb_slam_2_ros) Localization + Mapping
 
