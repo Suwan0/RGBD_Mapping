@@ -4,6 +4,10 @@
 ## Video
 <p align="center">
   <img
-    src="ORB_SLAM2.gif"
+    src="rtab_map.gif"
   >
 </p>
+
+
+## RTAB-Map
+[RTAB-Map](http://introlab.github.io/rtabmap/)
