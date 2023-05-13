@@ -6,7 +6,8 @@
 * * *
 
 ## Video
-**ORB_SLAM2+Segmentation
+
+**ORB_SLAM2+Segmentation**
 <p align="center">
   <img
     src="ORB_SLAM2.gif"
