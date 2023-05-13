@@ -10,7 +10,7 @@
 **ORB_SLAM2+Segmentation**, **RTAB_Map+Segmentation**
 <p align="left">
   <img
-    src="ORB_SLAM2.gif" width=400
+    src="ORB_SLAM2.gif" width=370
   >
   <img
     src="rtab_map+seg.gif" Height =292 width=550
