@@ -7,11 +7,11 @@
 
 ## Overview
 <p align="left">
-  <img
-    src="/Image/rtab_map_result.gif" width=600
+   <img
+    src="/Image/ORB_SLAM2_Overview.gif" width=200
   >
   <img
-    src="/Image/ORB_SLAM2_Overview.gif" width=300
+    src="/Image/rtab_map_result.gif" width=600
   >
 </p>
 
