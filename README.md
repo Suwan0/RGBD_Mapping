@@ -17,7 +17,7 @@
 **RTAB_Map+Segmentation**
 <p align="center">
   <img
-    src="rtab_map+seg.gif" width=600 height=392
+    src="rtab_map+seg.gif" 
   >
 </p>
 
