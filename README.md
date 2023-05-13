@@ -11,8 +11,6 @@
 <p align="left">
   <img
     src="ORB_SLAM2.gif" width=450
-  >
-  <img
     src="rtab_map+seg.gif" width = 450 
   >
 </p>
