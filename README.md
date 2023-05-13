@@ -13,7 +13,7 @@
     src="ORB_SLAM2.gif" width=450
   >
   <img
-    src="rtab_map+seg.gif" Height =300 width=550
+    src="rtab_map+seg.gif" Height =290 width=550
   >
 </p>
 
