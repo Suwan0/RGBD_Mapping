@@ -14,6 +14,13 @@
   >
 </p>
 
+**RTAB_Map+Segmentation**
+<p align="center">
+  <img
+    src="rtab_map+seg.gif"
+  >
+</p>
+
 ## Description
 주행 가능영역을 Semantic Segmentation하고 pointcloud로 만들어 Large Scale 3D Map에 나타내는 프로젝트입니다. 
 
