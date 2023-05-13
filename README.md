@@ -8,14 +8,14 @@
 ## Video
 
 **ORB_SLAM2+Segmentation**
-<p align="center">
+<p align="left">
   <img
     src="ORB_SLAM2.gif"
   >
 </p>
 
 **RTAB_Map+Segmentation**
-<p align="center">
+<p align="right">
   <img
     src="rtab_map+seg.gif" 
   >
