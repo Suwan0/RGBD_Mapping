@@ -33,7 +33,7 @@ Localization & 3D Mapping using RGBD Sensor
 |  <center>Requirement</center> |  <center>Description</center> |  
 |:--------|:--------:|
 |**ZED2i** | <center>RGBD Camera sensor</center> |
-|**ROS_noetic** | <center>We need noetic version of ROS, because of ubuntu</center> |
+|**ROS_noetic** | <center>noetic version of ROS</center> |
 |**python** | <center>v3.8.10</center> |
 |**opencv** | <center>v4.2.0 </center> |
 |**tensorflow** | <center>v2.11.1 </center> |
