@@ -7,7 +7,7 @@
 
 ## Video
 
-**ORB_SLAM2+Segmentation**, **RTAB_Map+Segmentation**
+**ORB_SLAM2+Segmentation(Left)**, **RTAB_Map+Segmentation(Right)**
 <p align="left">
   <img
     src="ORB_SLAM2.gif" width=370
@@ -17,12 +17,6 @@
   >
 </p>
 
-**RTAB_Map+Segmentation**
-<p align="right">
-  <img
-    src="rtab_map+seg.gif" width = 450 
-  >
-</p>
 
 ## Description
 주행 가능영역을 Semantic Segmentation하고 pointcloud로 만들어 Large Scale 3D Map에 나타내는 프로젝트입니다. 
