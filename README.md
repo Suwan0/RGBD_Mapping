@@ -48,13 +48,13 @@ Localization & 3D Mapping using RGBD Sensor
 **ORB_SLAM2+Segmentation**
 <p align="left">
   <img
-    src="/Image/ORB_SLAM2.gif" width=600
+    src="/Image/ORB_SLAM2.gif" width=500
   >
 </p>
 
 **RTAB_Map+Segmentation**
 <p align="left">
   <img
-    src="/Image/rtab_map+seg.gif" width=600
+    src="/Image/rtab_map+seg.gif" width=500
   >
 </p>
