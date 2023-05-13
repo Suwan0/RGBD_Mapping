@@ -12,23 +12,6 @@
   >
 </p>
 
-
-## Video
-
-**ORB_SLAM2+Segmentation**
-<p align="left">
-  <img
-    src="ORB_SLAM2.gif" width=600
-  >
-</p>
-
-**RTAB_Map+Segmentation**
-<p align="left">
-  <img
-    src="rtab_map+seg.gif" width=600
-  >
-</p>
-
 ## Description
 주행 가능영역을 Semantic Segmentation하고 pointcloud로 만들어 Large Scale 3D Map에 나타내는 프로젝트입니다. 
 
@@ -45,3 +28,29 @@ Localization & 3D Mapping using RGBD Sensor
 * Localization
 * 3D Mapping
 * Map Merge
+
+## Pre-requisties
+|  <center>Requirement</center> |  <center>Description</center> |  
+|:--------|:--------:|
+|**ZED2i** | <center>RGBD Camera sensor</center> |
+|**ROS_noetic** | <center>We need noetic version of ROS, because of ubuntu</center> |
+|**python** | <center>v3.8.10</center> |
+|**opencv** | <center>v4.2.0 </center> |
+|**tensorflow** | <center>v2.11.1 </center> |
+
+
+## Result Video
+
+**ORB_SLAM2+Segmentation**
+<p align="left">
+  <img
+    src="ORB_SLAM2.gif" width=600
+  >
+</p>
+
+**RTAB_Map+Segmentation**
+<p align="left">
+  <img
+    src="rtab_map+seg.gif" width=600
+  >
+</p>
