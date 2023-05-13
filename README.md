@@ -8,7 +8,10 @@
 ## Overview
 <p align="left">
   <img
-    src="/Localization/rtab_map_result.gif" width=600
+    src="/Image/rtab_map_result.gif" width=600
+  >
+  <img
+    src="/Image/ORB_SLAM2_Overview.gif" width=300
   >
 </p>
 
@@ -45,13 +48,13 @@ Localization & 3D Mapping using RGBD Sensor
 **ORB_SLAM2+Segmentation**
 <p align="left">
   <img
-    src="ORB_SLAM2.gif" width=600
+    src="/Image/ORB_SLAM2.gif" width=600
   >
 </p>
 
 **RTAB_Map+Segmentation**
 <p align="left">
   <img
-    src="rtab_map+seg.gif" width=600
+    src="/Image/rtab_map+seg.gif" width=600
   >
 </p>
