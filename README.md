@@ -8,7 +8,7 @@
 ## Overview
 <p align="left">
    <img
-    src="/Image/ORB_SLAM2_Overview.gif" width=200 height = 250
+    src="/Image/ORB_SLAM2_Overview.gif" width=200 height = 230
   >
   <img
     src="/Image/rtab_map_result.gif" width=600
