@@ -11,7 +11,7 @@
     src="/Image/ORB_SLAM2_Overview.gif" width=350 height = 227
   >
   <img
-    src="/Image/rtab_map_result.gif" width=550 height = 227
+    src="/Image/rtab_map_result.gif" width=500 height = 227
   >
 </p>
 
