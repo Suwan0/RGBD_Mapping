@@ -7,15 +7,15 @@
 
 ## Video
 
-**ORB_SLAM2+Segmentation**, **RTAB_Map+Segmentation**
-<p align="left">
+**ORB_SLAM2+Segmentation**
+<p align="center">
   <img
     src="ORB_SLAM2.gif" width=700
   >
 </p>
 
 **RTAB_Map+Segmentation**
-<p align="left">
+<p align="center">
   <img
     src="rtab_map+seg.gif" width=700
   >
