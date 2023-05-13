@@ -10,14 +10,17 @@
 **ORB_SLAM2+Segmentation**
 <p align="left">
   <img
-    src="ORB_SLAM2.gif"
+    src="ORB_SLAM2.gif" width=450
+  >
+  <img
+    src="rtab_map+seg.gif" width = 450 
   >
 </p>
 
 **RTAB_Map+Segmentation**
 <p align="right">
   <img
-    src="rtab_map+seg.gif" 
+    src="rtab_map+seg.gif" width = 450 
   >
 </p>
 
