@@ -6,7 +6,7 @@
 * * *
 
 ## Video
-<p align="center">
+<p align="left">
   <img
     src="ORB_SLAM2.gif" 
   >
