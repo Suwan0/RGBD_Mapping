@@ -6,9 +6,10 @@
 * * *
 
 ## Video
-<p align="left">
+* ORB_SLAM2+Segmentation
+<p align="center">
   <img
-    src="ORB_SLAM2.gif" 
+    src="ORB_SLAM2.gif"
   >
 </p>
 
