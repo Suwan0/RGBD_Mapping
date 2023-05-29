@@ -3,11 +3,11 @@
 ### Development environment
 
 ### Model 
-DeeplabV3  
-BiSeNetV2  
-PsPNet  
+DeeplabV3   
 PsPUNet
-
+BiSeNetV2  
+DDRNet_23
+PIDNet_S
 
 ### Dataset
 [AI Hub](http://www.aihub.or.kr/) Side Walking Dataset
@@ -15,6 +15,8 @@ PsPUNet
 ### Evaluation
 |model|accuracy|loss|mIoU|FPS|Size|
 |------|---|---|---|---|--|
-|DeeplabV3|92.4%|0.7690|65.6%|5.2|1MB|
-|BiSeNetV2|91.5%|1.324|63.8%|33.7|23.2MB|
+|DeeplabV3|92.4%|0.7690|65.6%|5.2|MB|
 |PsPUnet|90.1%|0.3120|75.2%|24.9|37.8MB|
+|BiSeNetV2|91.5%|1.324|63.8%|33.7|23.2MB|
+|DDRNet_23|90.1%|0.3120|73.2%|35.7|80.8MB|
+|PIDNet_S|87.2%|0.1220|76.6%|45.2|30.7MB|
