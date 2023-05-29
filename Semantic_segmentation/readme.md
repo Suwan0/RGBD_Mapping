@@ -4,10 +4,10 @@
 
 ### Model 
 DeeplabV3   
-PsPUNet
+PsPUNet  
 BiSeNetV2  
-DDRNet_23
-PIDNet_S
+DDRNet_23  
+PIDNet_S  
 
 ### Dataset
 [AI Hub](http://www.aihub.or.kr/) Side Walking Dataset
