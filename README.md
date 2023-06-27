@@ -62,7 +62,7 @@ Localization & 3D Mapping using RGBD Sensor
 **Final_result**
 <p align="left">
   <img
-    src="/Image/rtab_map+seg.gif" width=500
+    src="/Image/Final_result.gif" width=500
   >
 </p>
 
